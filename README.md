@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **"The Complete 2023 Web Development Bootcamp"**
 
-- 📄 Get to know me! [https://eldargljiva.github.io/](https://eldargljiva.github.io/)
+- 📄 Get to know me through my portfolio! [https://eldargljiva.github.io/](https://eldargljiva.github.io/)
 
 - 🌐 Explore my projects on <a href="https://github.com/EldarGljiva?tab=repositories" >GitHub</a> 
 
