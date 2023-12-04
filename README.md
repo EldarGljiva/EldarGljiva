@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Eldar</h1>
-<h3 align="center">Web Wizardry Enthusiast</h3>
 
 - 🌱 I’m currently learning **"The Complete 2023 Web Development Bootcamp"**
 
