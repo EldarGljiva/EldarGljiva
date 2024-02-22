@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Eldar</h1>
 
-- 🌱 I’m currently learning **"The Complete 2023 Web Development Bootcamp"**
 
 - 📄 Get to know me through my website portfolio! [https://eldargljiva.github.io/](https://eldargljiva.github.io/)
 
