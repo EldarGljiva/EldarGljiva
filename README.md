@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Eldar</h1>
 
 
-- 📄 Get to know me through my website portfolio! [https://eldargljiva.github.io/](https://eldargljiva.github.io/)
-
 - 🌐 Explore my projects on <a href="https://github.com/EldarGljiva?tab=repositories" >GitHub</a> ( **Screenshots of projects included** )
 
 - 📫 How to reach me **eldargljiva.eg@gmail.com**
